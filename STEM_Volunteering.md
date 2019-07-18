@@ -17,9 +17,9 @@ Think about what kind of commitment you're looking for. Recurring commitments ar
 # Making a difference in Central Texas
 
 ## Methods of Finding Opportunities
-[TX Stem Connections](https://txstemconnections.nepris.com) - Also has virtual opportunities!
-[Volunteer Match](https://www.volunteermatch.org/) - Has many non-STEM opportunities too
-[Greater Austin STEM Ecosystem Meetups](https://greateraustinstemecosystem.org/events/) - A great place to make connections of varying types (mostly non-profit) with folks in the STEM space.
+- [TX Stem Connections](https://txstemconnections.nepris.com) - Also has virtual opportunities!
+- [Volunteer Match](https://www.volunteermatch.org/) - Has many non-STEM opportunities too
+- [Greater Austin STEM Ecosystem Meetups](https://greateraustinstemecosystem.org/events/) - A great place to make connections of varying types (mostly non-profit) with folks in the STEM space.
 
 ## A few organizations
 
@@ -32,9 +32,7 @@ Think about what kind of commitment you're looking for. Recurring commitments ar
 | [TEALS](https://www.tealsk12.org/volunteers/) | High School Students | Outreach arm of Microsoft, so not a non-profit. They have a few remote opportunities to help out rural schools |
 | [Girls Who Code](https://girlswhocode.com/locations/) | Middle/High School Girls | You reach out to individual clubs, needs a weekly commitment for 1-2 semesters but good lesson support |
 | [My Brother's Keeper Coding Makerspace at Carver Museum](https://www.volunteermatch.org/search/opp1739052.jsp) | Boys and Young Men of Color | No experience with them but heard good things |
-
-Your Local Libraries
-Austin Public Library and RR Public Library both have STEM program coordinators.
+| Your Local Libraries | Everyone! | Austin Public Library and RR Public Library both have STEM program coordinators. |
 
 ## Unsure about getting in front of kids? 
 
