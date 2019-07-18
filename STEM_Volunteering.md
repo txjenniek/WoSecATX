@@ -14,6 +14,14 @@ Furthermore, if you're working with impressionable young people, esp URMs, there
 
 Think about what kind of commitment you're looking for. Recurring commitments are the hardest to make, but so impactful and many organizations need them. One time opportunities for an individual? Check! One time opportunities for a group? Check! Donations? Check!!! 
 
+You may also want to consider the following when making a volunteer commitment:
+- Are you enthused about the program/project/subject? Kids will pick up on your feelings about the subject!
+- What's the volunteer to student ratio looking like? Maybe volunteering as a group would make things easier?
+- Do they have activities for you to help run, or will you need to bring one?
+- What age, gender, and experience level are you most comfortable working with?
+
+Some of the easiest commitments that seem to be reasonably in demand are simply guest speakers -- representation matters. And you can't dream about careers you don't know about. So teachers often look to bring in diverse industry professionals to just communicate in an age appropriate manner what you do. 
+
 # Making a difference in Central Texas
 
 ## Methods of Finding Opportunities
@@ -32,7 +40,7 @@ Think about what kind of commitment you're looking for. Recurring commitments ar
 | [TEALS](https://www.tealsk12.org/volunteers/) | High School Students | Outreach arm of Microsoft, so not a non-profit. They have a few remote opportunities to help out rural schools |
 | [Girls Who Code](https://girlswhocode.com/locations/) | Middle/High School Girls | You reach out to individual clubs, needs a weekly commitment for 1-2 semesters but good lesson support |
 | [My Brother's Keeper Coding Makerspace at Carver Museum](https://www.volunteermatch.org/search/opp1739052.jsp) | Boys and Young Men of Color | No experience with them but heard good things |
-| Your Local Libraries | Everyone! | Austin Public Library and RR Public Library both have STEM program coordinators. |
+| Your Local Libraries | Everyone! | Austin Public Library and RR Public Library both have STEM program coordinators. I've seen them around the Austin EcoSystem meetups |
 
 ## Unsure about getting in front of kids? 
 
